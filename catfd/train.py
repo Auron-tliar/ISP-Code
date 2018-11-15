@@ -96,6 +96,16 @@ def main():
             'left_of_right_ear',
             'right_of_right_ear',
             'chin'
+
+            # 'left_eye',
+            # 'right_eye',
+            # 'mouth',
+            # 'left_ear1',
+            # 'left_ear2',
+            # 'left_ear3',
+            # 'right_ear1',
+            # 'right_ear1',
+            # 'right_ear1'
         )
         cmd = 'imglab {}/{} --parts "{}"'.format(
             TrainingDataUtil.training_data_dir,

@@ -6,6 +6,7 @@ from PIL import Image
 from lib.CatFaceLandmark import *
 from lib.Detector import Detector
 from skimage import io
+import numpy as np
 
 
 # def main():
@@ -86,7 +87,6 @@ from skimage import io
 #                    args['landmark_color'],
 #                    args['save_chip'])
 
-
 def detect(input_image, output_path, use_json, annotate_faces,
            annotate_landmarks, face_color, landmark_color, save_chip):
     img = io.imread(input_image)
@@ -108,15 +108,20 @@ def detect(input_image, output_path, use_json, annotate_faces,
 
         if save_chip:
             cropped = Image.open(input_image)
+            print(np.size(cropped))
+            print((face.left(),face.top(),face.right(),face.bottom()))
             cropped = cropped.crop((face.left(),
                                     face.top(),
                                     face.right(),
                                     face.bottom()))
 
+            print(np.size(cropped))
+
             chip_path = get_output_file(output_path,
                                         input_image,
                                         '_face_{}'.format(i),
                                         'jpg')
+            print([face.left(), face.top(), face.right(), face.bottom()])
             cropped.save(chip_path)
 
         if annotate_landmarks:
@@ -143,6 +148,11 @@ def detect(input_image, output_path, use_json, annotate_faces,
     if use_json:
         print json
 
+
+def get_landmarks(input_image, img, face):
+    d = Detector(input_image)
+    shape = d.predictor(img, face)
+    return shape
 
 def get_output_file(output_path, input_image, extra, ext):
     if not os.path.isdir(output_path):

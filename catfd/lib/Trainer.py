@@ -30,9 +30,9 @@ class Trainer:
     def train_shape_predictor(self):
         self.__print_training_message('shape predictor')
         opt = dlib.shape_predictor_training_options()
-        opt.oversampling_amount = 300
-        opt.nu = 0.05
-        opt.tree_depth = 2
+        # opt.oversampling_amount = 300
+        # opt.nu = 0.05
+        # opt.tree_depth = 2
         opt.num_threads = self.cpu_cores
         opt.be_verbose = True
         dlib.train_shape_predictor(self.xml, PREDICTOR_DAT, opt)
