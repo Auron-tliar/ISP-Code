@@ -36,10 +36,12 @@ def FaceDetectionLBP(img):
             bestInd = -1
             bestVal = 0
             for i in range(len(faces)):
+                (x, y, w, h) = faces[i]
                 if w*h > bestVal:
                     bestInd = i
                     bestVal = w*h
             faces[0] = faces[bestInd]
+            break
             # if neighbors <= 15:
             #     neighbors += 1
             # else:
@@ -107,13 +109,14 @@ if __name__ == '__main__':
         for f in glob.glob(os.path.join(args['input_folder'], '*.jp*g')):
             print(f)
             img = cv.imread(f)
+            # cv.imwrite(f+"_flip.jpg", cv.flip(img, 1))
             face = FaceDetectionLBP(img)
             if face is not None:
                 # cv.imwrite(f + "_test.jpg", cv.cvtColor(img, cv.COLOR_RGB2BGR))
                 (x,y,w,h) = face
                 rect = rectangle(left=x, top=y, right=x+w, bottom=y+h)
                 cropped = img[y:y + h, x:x + w]
-                cv.imwrite(f + "_cropped.jpg", cropped)
+                # cv.imwrite(f + "_cropped.jpg", cropped)
                 # detect(f, './Temp/', False, True, True, [25, 255, 100], [255, 255, 0], True)
                 shape = get_landmarks(f, img, rect)
                 shape = face_utils.shape_to_np(shape)

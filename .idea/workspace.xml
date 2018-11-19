@@ -4,11 +4,160 @@
     <list default="true" id="7c5dab3e-0b33-4601-ab6a-6c2170cc1834" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CatRecognition.py" beforeDir="false" afterPath="$PROJECT_DIR$/CatRecognition.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/catfd/catfd.py" beforeDir="false" afterPath="$PROJECT_DIR$/catfd/catfd.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/catfd/lib/CatFaceLandmark.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/catfd/lib/Detector.py" beforeDir="false" afterPath="$PROJECT_DIR$/catfd/lib/Detector.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/catfd/lib/Trainer.py" beforeDir="false" afterPath="$PROJECT_DIR$/catfd/lib/Trainer.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/catfd/train.py" beforeDir="false" afterPath="$PROJECT_DIR$/catfd/train.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/a/a1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/a/a10.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/a/a11.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/a/a12.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/a/a13.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/a/a2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/a/a3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/a/a4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/a/a5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/a/a6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/a/a7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/a/a8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/a/a9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/b/b1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/b/b10.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/b/b11.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/b/b12.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/b/b13.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/b/b14.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/b/b15.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/b/b2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/b/b3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/b/b4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/b/b5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/b/b6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/b/b7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/b/b8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/b/b9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/c/c1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/c/c10.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/c/c11.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/c/c12.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/c/c13.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/c/c14.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/c/c15.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/c/c2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/c/c3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/c/c4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/c/c5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/c/c6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/c/c7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/c/c8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/c/c9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/d/d1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/d/d10.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/d/d11.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/d/d12.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/d/d2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/d/d3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/d/d4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/d/d5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/d/d6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/d/d7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/d/d8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/d/d9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/e/e1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/e/e10.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/e/e11.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/e/e12.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/e/e13.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/e/e14.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/e/e15.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/e/e2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/e/e3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/same-cats/e/e3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/e/e4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/e/e5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/e/e6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/e/e7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/e/e8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/e/e9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/f/f1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/f/f10.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/f/f11.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/f/f12.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/f/f13.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/f/f14.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/f/f15.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/f/f2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/f/f3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/f/f4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/f/f5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/f/f6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/f/f7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/f/f8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/f/f9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/g/g1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/g/g10.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/g/g11.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/g/g12.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/g/g13.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/g/g2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/g/g3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/g/g4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/g/g5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/g/g6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/g/g7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/g/g8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/g/g9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/h/h1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/h/h10.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/h/h11.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/h/h12.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/h/h13.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/h/h14.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/h/h15.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/h/h2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/h/h3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/h/h4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/h/h5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/h/h6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/h/h7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/h/h8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/h/h9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/i/i1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/i/i10.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/i/i11.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/i/i12.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/i/i13.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/i/i2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/i/i3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/i/i4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/i/i5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/i/i6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/i/i7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/i/i8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/i/i9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/j/j1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/j/j10.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/j/j11.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/j/j12.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/j/j13.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/j/j2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/j/j3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/j/j4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/j/j5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/j/j6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/j/j7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/j/j8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/j/j9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/k/k1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/k/k10.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/k/k11.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/k/k12.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/k/k13.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/k/k14.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/k/k15.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/k/k2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/k/k3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/k/k4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/k/k5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/k/k6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/k/k7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/k/k8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/k/k9.jpg" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -49,25 +198,26 @@
     <session id="1754140979">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="4" />
+          <entry key="project.closed" value="6" />
           <entry key="project.open.time.2" value="1" />
           <entry key="project.open.time.3" value="1" />
           <entry key="project.open.time.40" value="1" />
           <entry key="project.open.time.42" value="1" />
           <entry key="project.open.time.45" value="1" />
-          <entry key="project.opened" value="5" />
+          <entry key="project.open.time.47" value="1" />
+          <entry key="project.opened" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="2" />
-          <entry key="py" value="1893" />
+          <entry key="py" value="1958" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="2" />
-          <entry key="Python" value="1893" />
+          <entry key="Python" value="1958" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -87,8 +237,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/CatRecognition.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="52" column="17" selection-start-line="52" selection-start-column="17" selection-end-line="52" selection-end-column="17" />
+            <state relative-caret-position="271">
+              <caret line="116" column="47" selection-start-line="116" selection-start-column="47" selection-end-line="116" selection-end-column="47" />
               <folding>
                 <element signature="e#0#18#0" expanded="true" />
               </folding>
@@ -103,7 +253,6 @@
               <caret line="8" column="18" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
               <folding>
                 <element signature="e#0#15#0" expanded="true" />
-                <marker date="1542265646996" expanded="true" signature="5289:5343" ph="..." />
               </folding>
             </state>
           </provider>
@@ -112,7 +261,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/catfd/lib/Detector.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
+            <state relative-caret-position="136">
               <caret line="14" column="8" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="8" />
               <folding>
                 <element signature="e#0#11#0" expanded="true" />
@@ -125,7 +274,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/openface/align_dlib.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-13">
+            <state relative-caret-position="1377">
               <caret line="83" column="19" selection-start-line="83" selection-start-column="19" selection-end-line="83" selection-end-column="19" />
             </state>
           </provider>
@@ -134,7 +283,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/catfd/lib/Trainer.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
+            <state relative-caret-position="255">
               <caret line="17" column="38" selection-start-line="17" selection-start-column="38" selection-end-line="17" selection-end-column="38" />
               <folding>
                 <element signature="e#0#11#0" expanded="true" />
@@ -181,6 +330,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -192,7 +342,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -277,7 +426,7 @@
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3289689" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32569557" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32569557" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -285,7 +434,7 @@
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="8" />
       <window_info anchor="bottom" id="Python Console" order="9" />
-      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" weight="0.3289689" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -310,11 +459,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/catfd/lib/TrainingDataUtil.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-239">
-          <folding>
-            <element signature="e#0#9#0" expanded="true" />
-          </folding>
-        </state>
+        <state relative-caret-position="-239" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/catfd/lib/DetectorResult.py">
@@ -324,35 +469,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/catfd/lib/CatFaceLandmark.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="867">
-          <caret line="51" column="36" selection-start-line="51" selection-start-column="36" selection-end-line="51" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/catfd/lib/CatFaceLandmark.py" />
     <entry file="file://$PROJECT_DIR$/catfd/train.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
           <caret line="100" column="26" lean-forward="true" selection-start-line="100" selection-start-column="26" selection-end-line="100" selection-end-column="26" />
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/catfd/lib/CatFaceLandmark_old.py">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/catfd/lib/Trainer.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="38" selection-start-line="17" selection-start-column="38" selection-end-line="17" selection-end-column="38" />
-          <folding>
-            <element signature="e#0#11#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/openface-master/openface/align_dlib.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -361,13 +487,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/catfd/lib/Detector.py">
+    <entry file="file://$PROJECT_DIR$/CatRecognition.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="8" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="8" />
+        <state relative-caret-position="271">
+          <caret line="116" column="47" selection-start-line="116" selection-start-column="47" selection-end-line="116" selection-end-column="47" />
           <folding>
-            <element signature="e#0#11#0" expanded="true" />
-            <marker date="1542264419506" expanded="true" signature="511:520" ph="..." />
+            <element signature="e#0#18#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -378,24 +503,34 @@
           <caret line="8" column="18" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
           <folding>
             <element signature="e#0#15#0" expanded="true" />
-            <marker date="1542265646996" expanded="true" signature="5289:5343" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/catfd/lib/Detector.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="14" column="8" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="8" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+            <marker date="1542264419506" expanded="true" signature="511:520" ph="..." />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/openface/align_dlib.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-13">
+        <state relative-caret-position="1377">
           <caret line="83" column="19" selection-start-line="83" selection-start-column="19" selection-end-line="83" selection-end-column="19" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CatRecognition.py">
+    <entry file="file://$PROJECT_DIR$/catfd/lib/Trainer.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="52" column="17" selection-start-line="52" selection-start-column="17" selection-end-line="52" selection-end-column="17" />
+        <state relative-caret-position="255">
+          <caret line="17" column="38" selection-start-line="17" selection-start-column="38" selection-end-line="17" selection-end-column="38" />
           <folding>
-            <element signature="e#0#18#0" expanded="true" />
+            <element signature="e#0#11#0" expanded="true" />
           </folding>
         </state>
       </provider>
