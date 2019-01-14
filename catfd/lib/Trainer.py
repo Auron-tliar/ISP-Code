@@ -25,7 +25,9 @@ class Trainer:
         opt.num_threads = self.cpu_cores
         opt.be_verbose = True
         opt.detection_window_size = self.window_size ** 2
-        dlib.train_simple_object_detector(self.xml, DETECTOR_SVM, opt)
+        print(dlib.DLIB_USE_CUDA)
+        dlib.train_simple_object_detector(self.xml, 'detector.svm', opt) #DETECTOR_SVM, opt)
+        print("After train_simple_detector")
 
     def train_shape_predictor(self):
         self.__print_training_message('shape predictor')
@@ -35,7 +37,8 @@ class Trainer:
         # opt.tree_depth = 2
         opt.num_threads = self.cpu_cores
         opt.be_verbose = True
-        dlib.train_shape_predictor(self.xml, PREDICTOR_DAT, opt)
+        print(dlib.DLIB_USE_CUDA)
+        dlib.train_shape_predictor(self.xml, 'predictor.dat', opt) #PREDICTOR_DAT, opt)
 
     def view_object_detector(self):
         detector = dlib.simple_object_detector(DETECTOR_SVM)

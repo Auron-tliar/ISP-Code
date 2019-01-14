@@ -5,7 +5,7 @@ import glob
 import os
 from os import listdir
 from os.path import isfile, join
-from catfd.catfd import detect, get_landmarks
+from catfd.catfd import detect, get_landmarks, get_face
 from catfd.lib.Trainer import DETECTOR_SVM
 from openface import AlignDlib
 from PIL import Image
@@ -109,14 +109,15 @@ if __name__ == '__main__':
         for f in glob.glob(os.path.join(args['input_folder'], '*.jp*g')):
             print(f)
             img = cv.imread(f)
-            # cv.imwrite(f+"_flip.jpg", cv.flip(img, 1))
+            # cv.imwrite(f + "_flip.jpg", cv.flip(img,1))
             face = FaceDetectionLBP(img)
+            # face = get_face(f, img)
             if face is not None:
                 # cv.imwrite(f + "_test.jpg", cv.cvtColor(img, cv.COLOR_RGB2BGR))
                 (x,y,w,h) = face
                 rect = rectangle(left=x, top=y, right=x+w, bottom=y+h)
                 cropped = img[y:y + h, x:x + w]
-                # cv.imwrite(f + "_cropped.jpg", cropped)
+                cv.imwrite(f + "_cropped.jpg", cropped)
                 # detect(f, './Temp/', False, True, True, [25, 255, 100], [255, 255, 0], True)
                 shape = get_landmarks(f, img, rect)
                 shape = face_utils.shape_to_np(shape)

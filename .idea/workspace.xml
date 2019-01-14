@@ -4,160 +4,288 @@
     <list default="true" id="7c5dab3e-0b33-4601-ab6a-6c2170cc1834" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CatRecognition.py" beforeDir="false" afterPath="$PROJECT_DIR$/CatRecognition.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/same-cats/a/a1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/same-cats/a/a10.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/same-cats/a/a11.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/same-cats/a/a12.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/same-cats/a/a13.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/same-cats/a/a2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/same-cats/a/a3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/same-cats/a/a4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/same-cats/a/a5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/same-cats/a/a6.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/same-cats/a/a7.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/same-cats/a/a8.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/same-cats/a/a9.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/same-cats/b/b1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/same-cats/b/b10.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/same-cats/b/b11.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/same-cats/b/b12.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/same-cats/b/b13.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/same-cats/b/b14.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/same-cats/b/b15.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/same-cats/b/b2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/same-cats/b/b3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/same-cats/b/b4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/same-cats/b/b5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/same-cats/b/b6.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/same-cats/b/b7.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/same-cats/b/b8.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/same-cats/b/b9.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/same-cats/c/c1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/same-cats/c/c10.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/same-cats/c/c11.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/same-cats/c/c12.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/same-cats/c/c13.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/same-cats/c/c14.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/same-cats/c/c15.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/same-cats/c/c2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/same-cats/c/c3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/same-cats/c/c4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/same-cats/c/c5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/same-cats/c/c6.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/same-cats/c/c7.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/same-cats/c/c8.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/same-cats/c/c9.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/same-cats/d/d1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/same-cats/d/d10.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/same-cats/d/d11.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/same-cats/d/d12.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/same-cats/d/d2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/same-cats/d/d3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/same-cats/d/d4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/same-cats/d/d5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/same-cats/d/d6.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/same-cats/d/d7.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/same-cats/d/d8.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/same-cats/d/d9.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/same-cats/e/e1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/same-cats/e/e10.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/same-cats/e/e11.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/same-cats/e/e12.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/same-cats/e/e13.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/same-cats/e/e14.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/same-cats/e/e15.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/same-cats/e/e2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/same-cats/e/e3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/same-cats/e/e3.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/same-cats/e/e4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/same-cats/e/e5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/same-cats/e/e6.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/same-cats/e/e7.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/same-cats/e/e8.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/same-cats/e/e9.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/same-cats/f/f1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/same-cats/f/f10.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/same-cats/f/f11.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/same-cats/f/f12.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/same-cats/f/f13.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/same-cats/f/f14.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/same-cats/f/f15.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/same-cats/f/f2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/same-cats/f/f3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/same-cats/f/f4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/same-cats/f/f5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/same-cats/f/f6.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/same-cats/f/f7.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/same-cats/f/f8.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/same-cats/f/f9.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/same-cats/g/g1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/same-cats/g/g10.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/same-cats/g/g11.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/same-cats/g/g12.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/same-cats/g/g13.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/same-cats/g/g2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/same-cats/g/g3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/same-cats/g/g4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/same-cats/g/g5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/same-cats/g/g6.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/same-cats/g/g7.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/same-cats/g/g8.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/same-cats/g/g9.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/same-cats/h/h1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/same-cats/h/h10.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/same-cats/h/h11.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/same-cats/h/h12.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/same-cats/h/h13.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/same-cats/h/h14.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/same-cats/h/h15.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/same-cats/h/h2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/same-cats/h/h3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/same-cats/h/h4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/same-cats/h/h5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/same-cats/h/h6.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/same-cats/h/h7.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/same-cats/h/h8.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/same-cats/h/h9.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/same-cats/i/i1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/same-cats/i/i10.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/same-cats/i/i11.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/same-cats/i/i12.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/same-cats/i/i13.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/same-cats/i/i2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/same-cats/i/i3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/same-cats/i/i4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/same-cats/i/i5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/same-cats/i/i6.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/same-cats/i/i7.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/same-cats/i/i8.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/same-cats/i/i9.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/same-cats/j/j1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/same-cats/j/j10.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/same-cats/j/j11.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/same-cats/j/j12.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/same-cats/j/j13.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/same-cats/j/j2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/same-cats/j/j3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/same-cats/j/j4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/same-cats/j/j5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/same-cats/j/j6.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/same-cats/j/j7.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/same-cats/j/j8.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/same-cats/j/j9.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/same-cats/k/k1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/same-cats/k/k10.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/same-cats/k/k11.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/same-cats/k/k12.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/same-cats/k/k13.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/same-cats/k/k14.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/same-cats/k/k15.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/same-cats/k/k2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/same-cats/k/k3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/same-cats/k/k4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/same-cats/k/k5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/same-cats/k/k6.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/same-cats/k/k7.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/same-cats/k/k8.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/same-cats/k/k9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/catfd/catfd.py" beforeDir="false" afterPath="$PROJECT_DIR$/catfd/catfd.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/catfd/data/predictor.dat" beforeDir="false" afterPath="$PROJECT_DIR$/catfd/data/predictor.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/catfd/lib/Detector.py" beforeDir="false" afterPath="$PROJECT_DIR$/catfd/lib/Detector.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/catfd/lib/Trainer.py" beforeDir="false" afterPath="$PROJECT_DIR$/catfd/lib/Trainer.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/catfd/train.py" beforeDir="false" afterPath="$PROJECT_DIR$/catfd/train.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/openface/align_dlib.py" beforeDir="false" afterPath="$PROJECT_DIR$/openface/align_dlib.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/a/a10.jpg_aligned.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/same-cats/a/a10.jpg_aligned.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/a/a10.jpg_aligned.jpg_flip.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/same-cats/a/a10.jpg_aligned.jpg_flip.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/a/a11.jpg_aligned.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/same-cats/a/a11.jpg_aligned.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/a/a11.jpg_aligned.jpg_flip.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/same-cats/a/a11.jpg_aligned.jpg_flip.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/a/a12.jpg_aligned.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/same-cats/a/a12.jpg_aligned.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/a/a12.jpg_aligned.jpg_flip.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/same-cats/a/a12.jpg_aligned.jpg_flip.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/a/a13.jpg_aligned.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/same-cats/a/a13.jpg_aligned.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/a/a13.jpg_aligned.jpg_flip.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/same-cats/a/a13.jpg_aligned.jpg_flip.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/a/a3.jpg_aligned.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/same-cats/a/a3.jpg_aligned.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/a/a3.jpg_aligned.jpg_flip.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/same-cats/a/a3.jpg_aligned.jpg_flip.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/a/a4.jpg_aligned.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/same-cats/a/a4.jpg_aligned.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/a/a4.jpg_aligned.jpg_flip.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/same-cats/a/a4.jpg_aligned.jpg_flip.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/a/a5.jpg_aligned.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/same-cats/a/a5.jpg_aligned.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/a/a5.jpg_aligned.jpg_flip.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/same-cats/a/a5.jpg_aligned.jpg_flip.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/a/a6.jpg_aligned.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/same-cats/a/a6.jpg_aligned.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/a/a6.jpg_aligned.jpg_flip.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/same-cats/a/a6.jpg_aligned.jpg_flip.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/a/a7.jpg_aligned.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/same-cats/a/a7.jpg_aligned.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/a/a7.jpg_aligned.jpg_flip.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/same-cats/a/a7.jpg_aligned.jpg_flip.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/a/a9.jpg_aligned.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/same-cats/a/a9.jpg_aligned.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/a/a9.jpg_aligned.jpg_flip.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/same-cats/a/a9.jpg_aligned.jpg_flip.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/b/b1.jpg_aligned.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/same-cats/b/b1.jpg_aligned.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/b/b1.jpg_aligned.jpg_flip.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/same-cats/b/b1.jpg_aligned.jpg_flip.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/b/b10.jpg_aligned.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/same-cats/b/b10.jpg_aligned.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/b/b10.jpg_aligned.jpg_flip.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/same-cats/b/b10.jpg_aligned.jpg_flip.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/b/b13.jpg_aligned.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/same-cats/b/b13.jpg_aligned.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/b/b13.jpg_aligned.jpg_flip.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/same-cats/b/b13.jpg_aligned.jpg_flip.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/b/b14.jpg_aligned.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/same-cats/b/b14.jpg_aligned.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/b/b14.jpg_aligned.jpg_flip.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/same-cats/b/b14.jpg_aligned.jpg_flip.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/b/b15.jpg_aligned.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/same-cats/b/b15.jpg_aligned.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/b/b15.jpg_aligned.jpg_flip.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/same-cats/b/b15.jpg_aligned.jpg_flip.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/b/b2.jpg_aligned.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/same-cats/b/b2.jpg_aligned.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/b/b2.jpg_aligned.jpg_flip.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/same-cats/b/b2.jpg_aligned.jpg_flip.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/b/b3.jpg_aligned.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/same-cats/b/b3.jpg_aligned.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/b/b3.jpg_aligned.jpg_flip.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/same-cats/b/b3.jpg_aligned.jpg_flip.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/b/b4.jpg_aligned.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/same-cats/b/b4.jpg_aligned.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/b/b4.jpg_aligned.jpg_flip.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/same-cats/b/b4.jpg_aligned.jpg_flip.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/b/b5.jpg_aligned.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/same-cats/b/b5.jpg_aligned.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/b/b5.jpg_aligned.jpg_flip.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/same-cats/b/b5.jpg_aligned.jpg_flip.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/b/b7.jpg_aligned.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/same-cats/b/b7.jpg_aligned.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/b/b7.jpg_aligned.jpg_flip.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/same-cats/b/b7.jpg_aligned.jpg_flip.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/b/b8.jpg_aligned.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/same-cats/b/b8.jpg_aligned.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/b/b8.jpg_aligned.jpg_flip.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/same-cats/b/b8.jpg_aligned.jpg_flip.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/b/b9.jpg_aligned.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/same-cats/b/b9.jpg_aligned.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/b/b9.jpg_aligned.jpg_flip.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/same-cats/b/b9.jpg_aligned.jpg_flip.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/c/c1.jpg_aligned.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/same-cats/c/c1.jpg_aligned.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/c/c1.jpg_aligned.jpg_flip.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/same-cats/c/c1.jpg_aligned.jpg_flip.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/c/c10.jpg_aligned.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/same-cats/c/c10.jpg_aligned.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/c/c10.jpg_aligned.jpg_flip.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/same-cats/c/c10.jpg_aligned.jpg_flip.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/c/c11.jpg_aligned.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/same-cats/c/c11.jpg_aligned.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/c/c11.jpg_aligned.jpg_flip.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/same-cats/c/c11.jpg_aligned.jpg_flip.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/c/c12.jpg_aligned.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/same-cats/c/c12.jpg_aligned.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/c/c12.jpg_aligned.jpg_flip.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/same-cats/c/c12.jpg_aligned.jpg_flip.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/c/c15.jpg_aligned.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/same-cats/c/c15.jpg_aligned.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/c/c15.jpg_aligned.jpg_flip.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/same-cats/c/c15.jpg_aligned.jpg_flip.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/c/c2.jpg_aligned.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/same-cats/c/c2.jpg_aligned.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/c/c2.jpg_aligned.jpg_flip.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/same-cats/c/c2.jpg_aligned.jpg_flip.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/c/c3.jpg_aligned.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/same-cats/c/c3.jpg_aligned.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/c/c3.jpg_aligned.jpg_flip.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/same-cats/c/c3.jpg_aligned.jpg_flip.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/c/c5.jpg_aligned.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/same-cats/c/c5.jpg_aligned.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/c/c5.jpg_aligned.jpg_flip.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/same-cats/c/c5.jpg_aligned.jpg_flip.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/c/c6.jpg_aligned.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/c/c6.jpg_aligned.jpg_flip.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/c/c7.jpg_aligned.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/same-cats/c/c7.jpg_aligned.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/c/c7.jpg_aligned.jpg_flip.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/same-cats/c/c7.jpg_aligned.jpg_flip.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/c/c8.jpg_aligned.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/same-cats/c/c8.jpg_aligned.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/c/c8.jpg_aligned.jpg_flip.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/same-cats/c/c8.jpg_aligned.jpg_flip.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/e/e1.jpg_aligned.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/same-cats/e/e1.jpg_aligned.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/e/e1.jpg_aligned.jpg_flip.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/same-cats/e/e1.jpg_aligned.jpg_flip.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/e/e10.jpg_aligned.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/same-cats/e/e10.jpg_aligned.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/e/e10.jpg_aligned.jpg_flip.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/same-cats/e/e10.jpg_aligned.jpg_flip.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/e/e11.jpg_aligned.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/same-cats/e/e11.jpg_aligned.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/e/e11.jpg_aligned.jpg_flip.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/same-cats/e/e11.jpg_aligned.jpg_flip.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/e/e12.jpg_aligned.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/same-cats/e/e12.jpg_aligned.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/e/e12.jpg_aligned.jpg_flip.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/same-cats/e/e12.jpg_aligned.jpg_flip.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/e/e14.jpg_aligned.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/same-cats/e/e14.jpg_aligned.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/e/e14.jpg_aligned.jpg_flip.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/same-cats/e/e14.jpg_aligned.jpg_flip.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/e/e15.jpg_aligned.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/same-cats/e/e15.jpg_aligned.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/e/e15.jpg_aligned.jpg_flip.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/same-cats/e/e15.jpg_aligned.jpg_flip.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/e/e2.jpg_aligned.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/same-cats/e/e2.jpg_aligned.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/e/e2.jpg_aligned.jpg_flip.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/same-cats/e/e2.jpg_aligned.jpg_flip.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/e/e3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/e/e3.jpg_flip.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/e/e6.jpg_aligned.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/same-cats/e/e6.jpg_aligned.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/e/e6.jpg_aligned.jpg_flip.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/same-cats/e/e6.jpg_aligned.jpg_flip.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/e/e7.jpg_aligned.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/same-cats/e/e7.jpg_aligned.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/e/e7.jpg_aligned.jpg_flip.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/same-cats/e/e7.jpg_aligned.jpg_flip.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/e/e8.jpg_aligned.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/same-cats/e/e8.jpg_aligned.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/e/e8.jpg_aligned.jpg_flip.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/same-cats/e/e8.jpg_aligned.jpg_flip.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/e/e9.jpg_aligned.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/same-cats/e/e9.jpg_aligned.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/e/e9.jpg_aligned.jpg_flip.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/same-cats/e/e9.jpg_aligned.jpg_flip.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/f/f1.jpg_aligned.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/same-cats/f/f1.jpg_aligned.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/f/f1.jpg_aligned.jpg_flip.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/same-cats/f/f1.jpg_aligned.jpg_flip.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/f/f11.jpg_aligned.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/same-cats/f/f11.jpg_aligned.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/f/f11.jpg_aligned.jpg_flip.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/same-cats/f/f11.jpg_aligned.jpg_flip.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/f/f12.jpg_aligned.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/same-cats/f/f12.jpg_aligned.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/f/f12.jpg_aligned.jpg_flip.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/same-cats/f/f12.jpg_aligned.jpg_flip.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/f/f13.jpg_aligned.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/same-cats/f/f13.jpg_aligned.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/f/f13.jpg_aligned.jpg_flip.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/same-cats/f/f13.jpg_aligned.jpg_flip.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/f/f14.jpg_aligned.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/same-cats/f/f14.jpg_aligned.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/f/f14.jpg_aligned.jpg_flip.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/same-cats/f/f14.jpg_aligned.jpg_flip.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/f/f15.jpg_aligned.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/same-cats/f/f15.jpg_aligned.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/f/f15.jpg_aligned.jpg_flip.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/same-cats/f/f15.jpg_aligned.jpg_flip.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/f/f2.jpg_aligned.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/same-cats/f/f2.jpg_aligned.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/f/f2.jpg_aligned.jpg_flip.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/same-cats/f/f2.jpg_aligned.jpg_flip.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/f/f3.jpg_aligned.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/same-cats/f/f3.jpg_aligned.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/f/f3.jpg_aligned.jpg_flip.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/same-cats/f/f3.jpg_aligned.jpg_flip.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/f/f4.jpg_aligned.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/same-cats/f/f4.jpg_aligned.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/f/f4.jpg_aligned.jpg_flip.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/same-cats/f/f4.jpg_aligned.jpg_flip.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/f/f5.jpg_aligned.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/same-cats/f/f5.jpg_aligned.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/f/f5.jpg_aligned.jpg_flip.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/same-cats/f/f5.jpg_aligned.jpg_flip.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/f/f6.jpg_aligned.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/same-cats/f/f6.jpg_aligned.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/f/f6.jpg_aligned.jpg_flip.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/same-cats/f/f6.jpg_aligned.jpg_flip.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/f/f8.jpg_aligned.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/same-cats/f/f8.jpg_aligned.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/f/f8.jpg_aligned.jpg_flip.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/same-cats/f/f8.jpg_aligned.jpg_flip.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/f/f9.jpg_aligned.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/f/f9.jpg_aligned.jpg_flip.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/g/g1.jpg_aligned.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/same-cats/g/g1.jpg_aligned.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/g/g1.jpg_aligned.jpg_flip.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/same-cats/g/g1.jpg_aligned.jpg_flip.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/g/g10.jpg_aligned.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/same-cats/g/g10.jpg_aligned.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/g/g10.jpg_aligned.jpg_flip.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/same-cats/g/g10.jpg_aligned.jpg_flip.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/g/g12.jpg_aligned.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/same-cats/g/g12.jpg_aligned.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/g/g12.jpg_aligned.jpg_flip.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/same-cats/g/g12.jpg_aligned.jpg_flip.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/g/g3.jpg_aligned.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/same-cats/g/g3.jpg_aligned.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/g/g3.jpg_aligned.jpg_flip.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/same-cats/g/g3.jpg_aligned.jpg_flip.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/g/g4.jpg_aligned.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/g/g4.jpg_aligned.jpg_flip.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/g/g5.jpg_aligned.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/same-cats/g/g5.jpg_aligned.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/g/g5.jpg_aligned.jpg_flip.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/same-cats/g/g5.jpg_aligned.jpg_flip.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/g/g6.jpg_aligned.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/same-cats/g/g6.jpg_aligned.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/g/g6.jpg_aligned.jpg_flip.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/same-cats/g/g6.jpg_aligned.jpg_flip.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/g/g8.jpg_aligned.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/same-cats/g/g8.jpg_aligned.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/g/g8.jpg_aligned.jpg_flip.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/same-cats/g/g8.jpg_aligned.jpg_flip.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/g/g9.jpg_aligned.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/same-cats/g/g9.jpg_aligned.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/g/g9.jpg_aligned.jpg_flip.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/same-cats/g/g9.jpg_aligned.jpg_flip.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/h/h1.jpg_aligned.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/same-cats/h/h1.jpg_aligned.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/h/h1.jpg_aligned.jpg_flip.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/same-cats/h/h1.jpg_aligned.jpg_flip.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/h/h10.jpg_aligned.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/same-cats/h/h10.jpg_aligned.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/h/h10.jpg_aligned.jpg_flip.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/same-cats/h/h10.jpg_aligned.jpg_flip.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/h/h11.jpg_aligned.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/same-cats/h/h11.jpg_aligned.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/h/h11.jpg_aligned.jpg_flip.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/same-cats/h/h11.jpg_aligned.jpg_flip.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/h/h12.jpg_aligned.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/same-cats/h/h12.jpg_aligned.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/h/h12.jpg_aligned.jpg_flip.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/same-cats/h/h12.jpg_aligned.jpg_flip.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/h/h13.jpg_aligned.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/same-cats/h/h13.jpg_aligned.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/h/h13.jpg_aligned.jpg_flip.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/same-cats/h/h13.jpg_aligned.jpg_flip.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/h/h14.jpg_aligned.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/same-cats/h/h14.jpg_aligned.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/h/h14.jpg_aligned.jpg_flip.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/same-cats/h/h14.jpg_aligned.jpg_flip.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/h/h2.jpg_aligned.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/same-cats/h/h2.jpg_aligned.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/h/h2.jpg_aligned.jpg_flip.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/same-cats/h/h2.jpg_aligned.jpg_flip.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/h/h3.jpg_aligned.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/same-cats/h/h3.jpg_aligned.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/h/h3.jpg_aligned.jpg_flip.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/same-cats/h/h3.jpg_aligned.jpg_flip.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/h/h4.jpg_aligned.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/same-cats/h/h4.jpg_aligned.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/h/h4.jpg_aligned.jpg_flip.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/same-cats/h/h4.jpg_aligned.jpg_flip.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/h/h5.jpg_aligned.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/same-cats/h/h5.jpg_aligned.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/h/h5.jpg_aligned.jpg_flip.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/same-cats/h/h5.jpg_aligned.jpg_flip.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/h/h6.jpg_aligned.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/same-cats/h/h6.jpg_aligned.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/h/h6.jpg_aligned.jpg_flip.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/same-cats/h/h6.jpg_aligned.jpg_flip.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/h/h7.jpg_aligned.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/same-cats/h/h7.jpg_aligned.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/h/h7.jpg_aligned.jpg_flip.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/same-cats/h/h7.jpg_aligned.jpg_flip.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/h/h8.jpg_aligned.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/same-cats/h/h8.jpg_aligned.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/h/h8.jpg_aligned.jpg_flip.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/same-cats/h/h8.jpg_aligned.jpg_flip.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/h/h9.jpg_aligned.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/same-cats/h/h9.jpg_aligned.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/h/h9.jpg_aligned.jpg_flip.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/same-cats/h/h9.jpg_aligned.jpg_flip.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/i/i1.jpg_aligned.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/same-cats/i/i1.jpg_aligned.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/i/i1.jpg_aligned.jpg_flip.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/same-cats/i/i1.jpg_aligned.jpg_flip.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/i/i10.jpg_aligned.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/same-cats/i/i10.jpg_aligned.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/i/i10.jpg_aligned.jpg_flip.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/same-cats/i/i10.jpg_aligned.jpg_flip.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/i/i12.jpg_aligned.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/same-cats/i/i12.jpg_aligned.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/i/i12.jpg_aligned.jpg_flip.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/same-cats/i/i12.jpg_aligned.jpg_flip.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/i/i13.jpg_aligned.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/same-cats/i/i13.jpg_aligned.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/i/i13.jpg_aligned.jpg_flip.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/same-cats/i/i13.jpg_aligned.jpg_flip.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/i/i2.jpg_aligned.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/same-cats/i/i2.jpg_aligned.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/i/i2.jpg_aligned.jpg_flip.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/same-cats/i/i2.jpg_aligned.jpg_flip.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/i/i3.jpg_aligned.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/same-cats/i/i3.jpg_aligned.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/i/i3.jpg_aligned.jpg_flip.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/same-cats/i/i3.jpg_aligned.jpg_flip.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/i/i4.jpg_aligned.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/same-cats/i/i4.jpg_aligned.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/i/i4.jpg_aligned.jpg_flip.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/same-cats/i/i4.jpg_aligned.jpg_flip.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/i/i6.jpg_aligned.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/same-cats/i/i6.jpg_aligned.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/i/i6.jpg_aligned.jpg_flip.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/same-cats/i/i6.jpg_aligned.jpg_flip.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/i/i7.jpg_aligned.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/same-cats/i/i7.jpg_aligned.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/i/i7.jpg_aligned.jpg_flip.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/same-cats/i/i7.jpg_aligned.jpg_flip.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/i/i8.jpg_aligned.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/same-cats/i/i8.jpg_aligned.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/i/i8.jpg_aligned.jpg_flip.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/same-cats/i/i8.jpg_aligned.jpg_flip.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/i/i9.jpg_aligned.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/same-cats/i/i9.jpg_aligned.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/i/i9.jpg_aligned.jpg_flip.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/same-cats/i/i9.jpg_aligned.jpg_flip.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/j/j1.jpg_aligned.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/same-cats/j/j1.jpg_aligned.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/j/j1.jpg_aligned.jpg_flip.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/same-cats/j/j1.jpg_aligned.jpg_flip.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/j/j10.jpg_aligned.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/same-cats/j/j10.jpg_aligned.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/j/j10.jpg_aligned.jpg_flip.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/same-cats/j/j10.jpg_aligned.jpg_flip.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/j/j11.jpg_aligned.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/same-cats/j/j11.jpg_aligned.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/j/j11.jpg_aligned.jpg_flip.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/same-cats/j/j11.jpg_aligned.jpg_flip.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/j/j12.jpg_aligned.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/same-cats/j/j12.jpg_aligned.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/j/j12.jpg_aligned.jpg_flip.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/same-cats/j/j12.jpg_aligned.jpg_flip.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/j/j13.jpg_aligned.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/same-cats/j/j13.jpg_aligned.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/j/j13.jpg_aligned.jpg_flip.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/same-cats/j/j13.jpg_aligned.jpg_flip.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/j/j2.jpg_aligned.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/same-cats/j/j2.jpg_aligned.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/j/j2.jpg_aligned.jpg_flip.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/same-cats/j/j2.jpg_aligned.jpg_flip.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/j/j3.jpg_aligned.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/same-cats/j/j3.jpg_aligned.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/j/j3.jpg_aligned.jpg_flip.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/same-cats/j/j3.jpg_aligned.jpg_flip.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/j/j4.jpg_aligned.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/same-cats/j/j4.jpg_aligned.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/j/j4.jpg_aligned.jpg_flip.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/same-cats/j/j4.jpg_aligned.jpg_flip.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/j/j5.jpg_aligned.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/same-cats/j/j5.jpg_aligned.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/j/j5.jpg_aligned.jpg_flip.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/same-cats/j/j5.jpg_aligned.jpg_flip.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/j/j6.jpg_aligned.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/same-cats/j/j6.jpg_aligned.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/j/j6.jpg_aligned.jpg_flip.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/same-cats/j/j6.jpg_aligned.jpg_flip.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/j/j7.jpg_aligned.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/same-cats/j/j7.jpg_aligned.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/j/j7.jpg_aligned.jpg_flip.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/same-cats/j/j7.jpg_aligned.jpg_flip.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/j/j8.jpg_aligned.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/same-cats/j/j8.jpg_aligned.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/j/j8.jpg_aligned.jpg_flip.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/same-cats/j/j8.jpg_aligned.jpg_flip.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/j/j9.jpg_aligned.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/same-cats/j/j9.jpg_aligned.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/j/j9.jpg_aligned.jpg_flip.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/same-cats/j/j9.jpg_aligned.jpg_flip.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/k/k1.jpg_aligned.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/same-cats/k/k1.jpg_aligned.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/k/k1.jpg_aligned.jpg_flip.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/same-cats/k/k1.jpg_aligned.jpg_flip.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/k/k10.jpg_aligned.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/same-cats/k/k10.jpg_aligned.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/k/k10.jpg_aligned.jpg_flip.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/same-cats/k/k10.jpg_aligned.jpg_flip.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/k/k11.jpg_aligned.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/same-cats/k/k11.jpg_aligned.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/k/k11.jpg_aligned.jpg_flip.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/same-cats/k/k11.jpg_aligned.jpg_flip.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/k/k12.jpg_aligned.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/same-cats/k/k12.jpg_aligned.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/k/k12.jpg_aligned.jpg_flip.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/same-cats/k/k12.jpg_aligned.jpg_flip.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/k/k13.jpg_aligned.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/same-cats/k/k13.jpg_aligned.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/k/k13.jpg_aligned.jpg_flip.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/same-cats/k/k13.jpg_aligned.jpg_flip.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/k/k14.jpg_aligned.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/same-cats/k/k14.jpg_aligned.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/k/k14.jpg_aligned.jpg_flip.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/same-cats/k/k14.jpg_aligned.jpg_flip.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/k/k15.jpg_aligned.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/same-cats/k/k15.jpg_aligned.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/k/k15.jpg_aligned.jpg_flip.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/same-cats/k/k15.jpg_aligned.jpg_flip.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/k/k2.jpg_aligned.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/same-cats/k/k2.jpg_aligned.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/k/k2.jpg_aligned.jpg_flip.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/same-cats/k/k2.jpg_aligned.jpg_flip.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/k/k3.jpg_aligned.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/same-cats/k/k3.jpg_aligned.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/k/k3.jpg_aligned.jpg_flip.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/same-cats/k/k3.jpg_aligned.jpg_flip.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/k/k4.jpg_aligned.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/same-cats/k/k4.jpg_aligned.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/k/k4.jpg_aligned.jpg_flip.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/same-cats/k/k4.jpg_aligned.jpg_flip.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/k/k5.jpg_aligned.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/same-cats/k/k5.jpg_aligned.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/k/k5.jpg_aligned.jpg_flip.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/same-cats/k/k5.jpg_aligned.jpg_flip.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/k/k6.jpg_aligned.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/same-cats/k/k6.jpg_aligned.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/k/k6.jpg_aligned.jpg_flip.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/same-cats/k/k6.jpg_aligned.jpg_flip.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/k/k8.jpg_aligned.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/same-cats/k/k8.jpg_aligned.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/k/k8.jpg_aligned.jpg_flip.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/same-cats/k/k8.jpg_aligned.jpg_flip.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/k/k9.jpg_aligned.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/same-cats/k/k9.jpg_aligned.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/k/k9.jpg_aligned.jpg_flip.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/same-cats/k/k9.jpg_aligned.jpg_flip.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/l/05112018130.jpg_aligned.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/same-cats/l/05112018130.jpg_aligned.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/l/05112018130.jpg_aligned.jpg_flip.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/same-cats/l/05112018130.jpg_aligned.jpg_flip.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/l/05112018182.jpg_aligned.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/same-cats/l/05112018182.jpg_aligned.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/l/05112018182.jpg_aligned.jpg_flip.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/same-cats/l/05112018182.jpg_aligned.jpg_flip.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/l/DSCN1426.JPG_aligned.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/same-cats/l/DSCN1426.JPG_aligned.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/l/DSCN1426.JPG_aligned.jpg_flip.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/same-cats/l/DSCN1426.JPG_aligned.jpg_flip.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/l/DSCN1439.JPG_aligned.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/same-cats/l/DSCN1439.JPG_aligned.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/l/DSCN1439.JPG_aligned.jpg_flip.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/same-cats/l/DSCN1439.JPG_aligned.jpg_flip.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/l/DSCN1447_1.jpg_aligned.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/same-cats/l/DSCN1447_1.jpg_aligned.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/l/DSCN1447_1.jpg_aligned.jpg_flip.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/same-cats/l/DSCN1447_1.jpg_aligned.jpg_flip.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/l/DSCN1450.JPG_aligned.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/same-cats/l/DSCN1450.JPG_aligned.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/l/DSCN1450.JPG_aligned.jpg_flip.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/same-cats/l/DSCN1450.JPG_aligned.jpg_flip.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/l/DSCN1467.JPG_aligned.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/same-cats/l/DSCN1467.JPG_aligned.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/l/DSCN1467.JPG_aligned.jpg_flip.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/same-cats/l/DSCN1467.JPG_aligned.jpg_flip.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/l/DSCN3988.JPG_aligned.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/same-cats/l/DSCN3988.JPG_aligned.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/l/DSCN3988.JPG_aligned.jpg_flip.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/same-cats/l/DSCN3988.JPG_aligned.jpg_flip.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/l/DSCN4288.JPG_aligned.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/same-cats/l/DSCN4288.JPG_aligned.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/l/DSCN4288.JPG_aligned.jpg_flip.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/same-cats/l/DSCN4288.JPG_aligned.jpg_flip.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/m/05112018164.jpg_aligned.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/same-cats/m/05112018164.jpg_aligned.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/m/05112018164.jpg_aligned.jpg_flip.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/same-cats/m/05112018164.jpg_aligned.jpg_flip.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/m/05112018174.jpg_aligned.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/same-cats/m/05112018174.jpg_aligned.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/m/05112018174.jpg_aligned.jpg_flip.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/same-cats/m/05112018174.jpg_aligned.jpg_flip.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/m/05112018190.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/m/05112018190.jpg_flip.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/m/20171224_110355.jpg_aligned.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/same-cats/m/20171224_110355.jpg_aligned.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/m/20171224_110355.jpg_aligned.jpg_flip.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/same-cats/m/20171224_110355.jpg_aligned.jpg_flip.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/m/20180109_024658.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/m/20180109_024658.jpg_flip.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/m/DSCN4272.JPG_aligned.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/same-cats/m/DSCN4272.JPG_aligned.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/m/DSCN4272.JPG_aligned.jpg_flip.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/same-cats/m/DSCN4272.JPG_aligned.jpg_flip.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/m/DSCN4275.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/m/DSCN4275.JPG_flip.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/m/DSCN4280.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/m/DSCN4280.JPG_flip.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/m/DSCN4285.JPG_aligned.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/same-cats/m/DSCN4285.JPG_aligned.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/m/DSCN4285.JPG_aligned.jpg_flip.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/same-cats/m/DSCN4285.JPG_aligned.jpg_flip.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/m/DSCN4286.JPG_aligned.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/same-cats/m/DSCN4286.JPG_aligned.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/same-cats/m/DSCN4286.JPG_aligned.jpg_flip.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/same-cats/m/DSCN4286.JPG_aligned.jpg_flip.jpg" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -198,47 +326,55 @@
     <session id="1754140979">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="6" />
+          <entry key="project.closed" value="14" />
           <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.26" value="1" />
           <entry key="project.open.time.3" value="1" />
+          <entry key="project.open.time.31" value="1" />
+          <entry key="project.open.time.35" value="1" />
+          <entry key="project.open.time.37" value="1" />
+          <entry key="project.open.time.39" value="1" />
+          <entry key="project.open.time.4" value="1" />
           <entry key="project.open.time.40" value="1" />
           <entry key="project.open.time.42" value="1" />
           <entry key="project.open.time.45" value="1" />
           <entry key="project.open.time.47" value="1" />
-          <entry key="project.opened" value="6" />
+          <entry key="project.open.time.52" value="1" />
+          <entry key="project.open.time.9" value="1" />
+          <entry key="project.opened" value="14" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="2" />
-          <entry key="py" value="1958" />
+          <entry key="py" value="2507" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="2" />
-          <entry key="Python" value="1958" />
+          <entry key="Python" value="2507" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="9" />
+          <entry key="py" value="27" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Python" value="9" />
+          <entry key="Python" value="27" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/CatRecognition.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="271">
-              <caret line="116" column="47" selection-start-line="116" selection-start-column="47" selection-end-line="116" selection-end-column="47" />
+            <state relative-caret-position="176">
+              <caret line="112" column="40" lean-forward="true" selection-start-line="112" selection-start-column="40" selection-end-line="112" selection-end-column="40" />
               <folding>
                 <element signature="e#0#18#0" expanded="true" />
               </folding>
@@ -246,11 +382,27 @@
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/openface/torch_neural_net.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-255" />
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/catfd/lib/CatFaceLandmark.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/catfd/catfd.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="18" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
+            <state relative-caret-position="3774">
+              <caret line="230" column="33" selection-start-line="230" selection-start-column="33" selection-end-line="230" selection-end-column="33" />
               <folding>
                 <element signature="e#0#15#0" expanded="true" />
               </folding>
@@ -261,11 +413,12 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/catfd/lib/Detector.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="14" column="8" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="8" />
+            <state relative-caret-position="1071">
+              <caret line="69" column="12" selection-start-line="69" selection-start-column="12" selection-end-line="69" selection-end-column="12" />
               <folding>
                 <element signature="e#0#11#0" expanded="true" />
-                <marker date="1542264419506" expanded="true" signature="511:520" ph="..." />
+                <marker date="1543024218368" expanded="true" signature="509:518" ph="..." />
+                <marker date="1543024218368" expanded="true" signature="736:2307" ph="..." />
               </folding>
             </state>
           </provider>
@@ -274,8 +427,20 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/openface/align_dlib.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1377">
-              <caret line="83" column="19" selection-start-line="83" selection-start-column="19" selection-end-line="83" selection-end-column="19" />
+            <state relative-caret-position="-1394">
+              <caret line="67" column="13" selection-start-line="67" selection-start-column="13" selection-end-line="67" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/catfd/train.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1717">
+              <caret line="105" column="25" selection-start-line="105" selection-start-column="25" selection-end-line="105" selection-end-column="25" />
+              <folding>
+                <element signature="e#0#15#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -283,10 +448,22 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/catfd/lib/Trainer.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="17" column="38" selection-start-line="17" selection-start-column="38" selection-end-line="17" selection-end-column="38" />
+            <state relative-caret-position="442">
+              <caret line="28" column="72" selection-start-line="28" selection-start-column="72" selection-end-line="28" selection-end-column="72" />
               <folding>
                 <element signature="e#0#11#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/catfd/lib/TrainingDataUtil.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="12" column="38" selection-start-line="12" selection-start-column="38" selection-end-line="12" selection-end-column="38" />
+              <folding>
+                <element signature="e#0#9#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -307,12 +484,12 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/catfd/lib/CatFaceLandmark.py" />
-        <option value="$PROJECT_DIR$/catfd/train.py" />
-        <option value="$PROJECT_DIR$/catfd/lib/Detector.py" />
-        <option value="$PROJECT_DIR$/catfd/lib/Trainer.py" />
         <option value="$PROJECT_DIR$/openface-master/openface/align_dlib.py" />
+        <option value="$PROJECT_DIR$/catfd/train.py" />
+        <option value="$PROJECT_DIR$/catfd/lib/Trainer.py" />
+        <option value="$PROJECT_DIR$/catfd/lib/Detector.py" />
         <option value="$PROJECT_DIR$/catfd/catfd.py" />
+        <option value="$PROJECT_DIR$/catfd/lib/CatFaceLandmark.py" />
         <option value="$PROJECT_DIR$/openface/align_dlib.py" />
         <option value="$PROJECT_DIR$/CatRecognition.py" />
       </list>
@@ -345,7 +522,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Thesis/MAS-Test" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunDashboard">
@@ -457,9 +634,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/catfd/lib/TrainingDataUtil.py">
+    <entry file="file://$PROJECT_DIR$/openface-master/openface/align_dlib.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-239" />
+        <state relative-caret-position="323">
+          <caret line="55" column="70" lean-forward="true" selection-start-line="21" selection-end-line="55" selection-end-column="70" />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/catfd/lib/DetectorResult.py">
@@ -469,38 +648,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/catfd/lib/CatFaceLandmark.py" />
-    <entry file="file://$PROJECT_DIR$/catfd/train.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="100" column="26" lean-forward="true" selection-start-line="100" selection-start-column="26" selection-end-line="100" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/catfd/lib/CatFaceLandmark_old.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/openface-master/openface/align_dlib.py">
+    <entry file="file://$PROJECT_DIR$/catfd/lib/CatFaceLandmark.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="55" column="70" lean-forward="true" selection-start-line="21" selection-end-line="55" selection-end-column="70" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CatRecognition.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="271">
-          <caret line="116" column="47" selection-start-line="116" selection-start-column="47" selection-end-line="116" selection-end-column="47" />
-          <folding>
-            <element signature="e#0#18#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="153">
+          <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/catfd/catfd.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="18" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
+        <state relative-caret-position="3774">
+          <caret line="230" column="33" selection-start-line="230" selection-start-column="33" selection-end-line="230" selection-end-column="33" />
           <folding>
             <element signature="e#0#15#0" expanded="true" />
           </folding>
@@ -509,30 +670,87 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/catfd/lib/Detector.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="14" column="8" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="8" />
+        <state relative-caret-position="1071">
+          <caret line="69" column="12" selection-start-line="69" selection-start-column="12" selection-end-line="69" selection-end-column="12" />
           <folding>
             <element signature="e#0#11#0" expanded="true" />
-            <marker date="1542264419506" expanded="true" signature="511:520" ph="..." />
+            <marker date="1543024218368" expanded="true" signature="509:518" ph="..." />
+            <marker date="1543024218368" expanded="true" signature="736:2307" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/catfd/train.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1717">
+          <caret line="105" column="25" selection-start-line="105" selection-start-column="25" selection-end-line="105" selection-end-column="25" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/catfd/lib/Trainer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="28" column="72" selection-start-line="28" selection-start-column="72" selection-end-line="28" selection-end-column="72" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/catfd/lib/TrainingDataUtil.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="12" column="38" selection-start-line="12" selection-start-column="38" selection-end-line="12" selection-end-column="38" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/openface/align_dlib.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1377">
-          <caret line="83" column="19" selection-start-line="83" selection-start-column="19" selection-end-line="83" selection-end-column="19" />
+        <state relative-caret-position="-1394">
+          <caret line="67" column="13" selection-start-line="67" selection-start-column="13" selection-end-line="67" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/catfd/lib/Trainer.py">
+    <entry file="file://$PROJECT_DIR$/CatRecognition.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="38" selection-start-line="17" selection-start-column="38" selection-end-line="17" selection-end-column="38" />
+        <state relative-caret-position="176">
+          <caret line="112" column="40" lean-forward="true" selection-start-line="112" selection-start-column="40" selection-end-line="112" selection-end-column="40" />
           <folding>
-            <element signature="e#0#11#0" expanded="true" />
+            <element signature="e#0#18#0" expanded="true" />
           </folding>
         </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/openface/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/openface/helper.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="10" column="55" lean-forward="true" selection-start-line="10" selection-start-column="55" selection-end-line="10" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/openface/data.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-640">
+          <caret line="16" column="28" lean-forward="true" selection-start-line="16" selection-start-column="28" selection-end-line="16" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/openface/torch_neural_net.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-255" />
       </provider>
     </entry>
   </component>

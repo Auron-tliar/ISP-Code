@@ -149,6 +149,12 @@ def detect(input_image, output_path, use_json, annotate_faces,
         print json
 
 
+def get_face(input_image, img):
+    d = Detector(input_image)
+    face = d.FaceDetectionDLIB(img)
+    return face
+
+
 def get_landmarks(input_image, img, face):
     d = Detector(input_image)
     shape = d.predictor(img, face)
@@ -208,17 +214,29 @@ def draw_face_annotation(img, face, color, width):
 
 def draw_landmark_annotation(img, shape, color, width):
     lines = [
-        [CatFaceLandmark.CHIN, CatFaceLandmark.NOSE],
-        [CatFaceLandmark.NOSE, CatFaceLandmark.LEFT_EYE],
-        [CatFaceLandmark.NOSE, CatFaceLandmark.RIGHT_EYE],
-        [CatFaceLandmark.LEFT_EYE, CatFaceLandmark.LEFT_OF_LEFT_EAR],
-        [CatFaceLandmark.LEFT_EYE, CatFaceLandmark.RIGHT_OF_LEFT_EAR],
-        [CatFaceLandmark.RIGHT_OF_LEFT_EAR, CatFaceLandmark.LEFT_OF_LEFT_EAR],
-        [CatFaceLandmark.RIGHT_EYE, CatFaceLandmark.RIGHT_OF_RIGHT_EAR],
-        [CatFaceLandmark.RIGHT_EYE, CatFaceLandmark.LEFT_OF_RIGHT_EAR],
-        [CatFaceLandmark.RIGHT_OF_RIGHT_EAR, CatFaceLandmark.LEFT_OF_RIGHT_EAR],
-        [CatFaceLandmark.RIGHT_OF_LEFT_EAR, CatFaceLandmark.LEFT_OF_RIGHT_EAR],
+        [CatFaceLandmark.MOUTH, CatFaceLandmark.LEFT_EYE],
+        [CatFaceLandmark.MOUTH, CatFaceLandmark.RIGHT_EYE],
+        [CatFaceLandmark.LEFT_EYE, CatFaceLandmark.LEFT_EAR1],
+        [CatFaceLandmark.LEFT_EYE, CatFaceLandmark.LEFT_EAR3],
+        [CatFaceLandmark.LEFT_EAR1, CatFaceLandmark.LEFT_EAR2],
+        [CatFaceLandmark.LEFT_EAR3, CatFaceLandmark.LEFT_EAR2],
+        [CatFaceLandmark.RIGHT_EAR1, CatFaceLandmark.LEFT_EAR3],
+        [CatFaceLandmark.RIGHT_EYE, CatFaceLandmark.RIGHT_EAR1],
+        [CatFaceLandmark.RIGHT_EYE, CatFaceLandmark.RIGHT_EAR3],
+        [CatFaceLandmark.RIGHT_EAR1, CatFaceLandmark.RIGHT_EAR2],
+        [CatFaceLandmark.RIGHT_EAR3, CatFaceLandmark.RIGHT_EAR2],
         [CatFaceLandmark.RIGHT_EYE, CatFaceLandmark.LEFT_EYE],
+        # [CatFaceLandmark.CHIN, CatFaceLandmark.NOSE],
+        # [CatFaceLandmark.NOSE, CatFaceLandmark.LEFT_EYE],
+        # [CatFaceLandmark.NOSE, CatFaceLandmark.RIGHT_EYE],
+        # [CatFaceLandmark.LEFT_EYE, CatFaceLandmark.LEFT_OF_LEFT_EAR],
+        # [CatFaceLandmark.LEFT_EYE, CatFaceLandmark.RIGHT_OF_LEFT_EAR],
+        # [CatFaceLandmark.RIGHT_OF_LEFT_EAR, CatFaceLandmark.LEFT_OF_LEFT_EAR],
+        # [CatFaceLandmark.RIGHT_EYE, CatFaceLandmark.RIGHT_OF_RIGHT_EAR],
+        # [CatFaceLandmark.RIGHT_EYE, CatFaceLandmark.LEFT_OF_RIGHT_EAR],
+        # [CatFaceLandmark.RIGHT_OF_RIGHT_EAR, CatFaceLandmark.LEFT_OF_RIGHT_EAR],
+        # [CatFaceLandmark.RIGHT_OF_LEFT_EAR, CatFaceLandmark.LEFT_OF_RIGHT_EAR],
+        # [CatFaceLandmark.RIGHT_EYE, CatFaceLandmark.LEFT_EYE],
     ]
 
     for i in lines:
