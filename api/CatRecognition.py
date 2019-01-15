@@ -95,7 +95,7 @@ def CalculateSimilarities(face, faces):
 
 
 #train face recognizer based on LBPH
-def TrainFaceRecognizer(folder):
+def TrainFaceRecognizer(folder = None):
     labels = []
     faces = []
     if folder is not None:
