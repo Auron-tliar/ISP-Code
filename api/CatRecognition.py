@@ -120,9 +120,12 @@ def TrainFaceRecognizer(folder):
                 faces.extend(curFaces)
                 for i in range(len(curFaces)):
                     labels.append(int(os.path.splitext(file)[0]))
+    for i in range(len(faces)):
+        faces[i] = cv.cvtColor(faces[i], cv.COLOR_BGR2GRAY)
+
     faces = np.array(faces)
     labels = np.array(labels)
-    face_recognizer = cv.face.createLBPHFaceRecognizer()
+    face_recognizer = cv.face.LBPHFaceRecognizer_create()
     face_recognizer.train(faces, labels)
 
     face_recognizer.write('lbph_face_recognizer')
@@ -159,7 +162,7 @@ def ExtractFace(img):
 
 # recognize face
 def RecognizeFace(face):
-    face_recognizer = cv.face.createLBPHFaceRecognizer()
+    face_recognizer = cv.face.LBPHFaceRecognizer_create()
     face_recognizer.read('lbph_face_recognizer')
     label = face_recognizer.predict(face)
     return label
@@ -177,7 +180,8 @@ def GetLandmarks(img, face):
 def CheckImage(img):
     face = ExtractFace(img)
     if face is not None:
-        label = RecognizeFace(face)
+        label = RecognizeFace(cv.cvtColor(face, cv.COLOR_BGR2GRAY))
+        label = label[0]
         with open(str(label) + '.cim', 'rb') as fim:
             with open(str(label) + '.csm', 'rb') as fsim:
                 result = CheckSimilarity(face, pickle.load(fim), pickle.load(fsim))
@@ -243,8 +247,8 @@ if __name__ == '__main__':
         parser.error("must specify either -r or -c")
 
     if args['retrain']:
-        TrainFaceRecognizer('classes')
+        TrainFaceRecognizer()
 
     if args['check_image']:
-        CheckImage(cv.imread(args['check_image']))
+        print(CheckImage(cv.imread(args['check_image'])))
 
